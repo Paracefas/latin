@@ -1,1 +1,1 @@
-web: python latin.py
+web: gunicorn latin:app
